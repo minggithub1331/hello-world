@@ -1,2 +1,3 @@
 # hello-world
-hope : truth
+do_and_do={hope : truth}
+print(do_and_do[hope])
